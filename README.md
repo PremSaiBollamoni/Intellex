@@ -20,6 +20,7 @@
 
 > 🏗️ **Current Status:** In active development with continuous enhancements and API integrations.
 
+## 🧑‍💻 Live Demo : https://spontaneous-malabi-8ff709.netlify.app
 ---
 
 ## ✨ Core Modules

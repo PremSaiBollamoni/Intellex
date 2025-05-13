@@ -59,10 +59,12 @@ Each model comes with its own trade-off between speed and intelligence — confi
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/intellex-chat.png" width="220" alt="IntellexChat UI"/>
-  <img src="assets/intellex-vis.png" width="220" alt="IntellexVis Analysis"/>
-  <img src="assets/intellex-talk.png" width="220" alt="IntellexTalk Transcription"/>
+  <p align="center">
+  <img src="assets/intellex-ui.png" width="320" alt="IntellexChat UI" style="margin: 15px;"/>
+  <img src="assets/intellex-imageresponse.png" width="320" alt="Intellex Image Response" style="margin: 15px;"/>
+  <img src="assets/intellex-talk.png" width="320" alt="Intellex Talk" style="margin: 15px;"/>
+  <img src="assets/multimodal-feature.png" width="320" alt="IntellexVis Analysis" style="margin: 15px;"/>
+  <img src="assets/intellex-image-analysis.png" width="320" alt="Intellex Image Analysis" style="margin: 15px;"/>
 </p>
 
 ---
